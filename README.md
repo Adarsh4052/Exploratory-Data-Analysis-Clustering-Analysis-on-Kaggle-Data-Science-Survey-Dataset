@@ -8,3 +8,9 @@ Furthermore, we tried to seek logical similarities and interesting insights amon
 
 Dataset:
 https://www.kaggle.com/kaggle/kaggle-survey-2018
+
+
+TSNE didn't work properly so those files can be ignored
+PCA worked pretty good for this case. 
+
+Please contact if more information is needed on this project. I will be writing a blog article soon explaining this project in detail.
