@@ -6,8 +6,5 @@ Furthermore, we tried to seek logical similarities and interesting insights amon
  This categorization could help companies, educational institutions and newcomers in the field of data science.
 
 
-
-PCA - worked like a charm!
-TSNE - tried but didn't work in this case.
-
-K-means clustering was done on top of PCA.
+Dataset:
+https://www.kaggle.com/kaggle/kaggle-survey-2018
